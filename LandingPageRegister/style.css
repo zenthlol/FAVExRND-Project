@@ -46,7 +46,7 @@ label.logo{
 }
 
 .landing-page{
-    background: url("/LandingPageRegister/assets/realbg.png");
+    background: url("/assets/realbg.png");
     background-size: cover;
     width: 100%;
     height: 100vh;
